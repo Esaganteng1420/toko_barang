@@ -1,4 +1,4 @@
-nama: toko_barang
+name: toko_barang
 description: Aplikasi MVC sederhana
 publish_to: 'none'
 version: 1.0.0+1
